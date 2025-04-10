@@ -1,0 +1,27 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1603971107411-9637b3ec6f8b');
+  background-size: cover;
+  color: white;
+  font-family: 'Georgia', serif;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+nav a {
+  color: #00ffcc;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+h1, h2 {
+  color: #ffff66;
+}
+
+.intro-div, .video-div, .list-div, .tableau-div {
+  margin-top: 30px;
+}
